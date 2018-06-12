@@ -8,7 +8,7 @@ function setup() {
     spaceships.push(new Spaceship(createVector(random(width),random(height)), num, floor(random(num)), floor(random(1000))));
   }
 
-  debug = true;
+  debug = false;
 }
 
 function update() {
