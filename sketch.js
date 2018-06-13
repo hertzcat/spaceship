@@ -1,5 +1,5 @@
 let spaceships = [];
-let num = 2;
+let num = 3;
 
 function setup() {
   canvas = createCanvas(window.innerWidth, window.innerHeight);
